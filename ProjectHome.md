@@ -1,0 +1,1 @@
+The Arithmetic Logical Unit is half of what makes a CPU in a computer, and this project is a ALU created entirely in Python 2.7, sort of a base for creating a virtual processor on a computer, which in turn leads to a virtual computer created entirely from Python.
